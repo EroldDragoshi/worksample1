@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Muli);
+* {
+  font-family: Muli;
+  color: #a4a6b3;
+}
+.maindiv {
+  position: relative;
+  margin-top: 30px;
+  margin-left: 30px;
+  width: 225px;
+  height: 330px;
+  background-color: #363740;
+}
+#overview {
+  background-color: #9fa2b4;
+  color: #dde2ff;
+}
+#ovtext {
+  color: #dde2ff;
+  margin-top: 0.47px;
+  padding-left: 29px;
+}
+#logo {
+  padding: 37px 191px 59px 32px;
+}
+h1 {
+  position: absolute;
+  width: 136px;
+  height: 24px;
+  left: 35px;
+  top: 69px;
+
+  font-family: "Muli";
+  font-size: 19px;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+  color: #a4a6b3;
+  opacity: 0.7;
+}
+
+#vector {
+  padding-left: 29px;
+}
+#ticketslogo,
+p {
+  padding-left: 32px;
+  margin-top: 10.47px;
+  color: #a4a6b3;
+}
+#taskslogo {
+  padding-left: 29px;
+}

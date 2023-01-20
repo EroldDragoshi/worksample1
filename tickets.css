@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Muli);
+* {
+  font-family: Muli;
+}
+body {
+  background-color: #363740;
+}
+h1 {
+  margin-left: 102px;
+  margin-top: 79px;
+  font-size: 40px;
+  color: white;
+  font-family: Muli;
+}
+div {
+  width: 258px;
+  height: 134px;
+  margin-left: 80px;
+  margin-top: 32px;
+  background-color: white;
+  border-radius: 8px;
+  color: #000;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+h2 {
+  text-align: center;
+  padding-top: 24px;
+  color: #9fa2b4;
+  font-size: 19px;
+}
+p {
+  margin-top: 20px;
+}
+div:hover {
+  width: 258px;
+  height: 134px;
+  margin-left: 80px;
+  margin-top: 32px;
+  background-color: white;
+  border-radius: 8px;
+  color: #3751ff;
+  border: solid #3751ff 3px;
+}
